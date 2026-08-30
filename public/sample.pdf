@@ -1,0 +1,113 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1641 >>
+stream
+0.11 0.1 0.09 rg 0 732 612 60 re f
+1 0.99 0.96 rg
+BT /F2 13 Tf 36 754 Td (INKSHIFT) Tj ET
+BT /F1 10 Tf 470 754 Td (Studio sample) Tj ET
+0.11 0.1 0.09 rg 0.12 0.11 0.1 rg
+BT /F2 32 Tf 48 660 Td (Quarterly brief) Tj ET
+0.35 0.33 0.3 rg
+BT /F1 12 Tf 48 632 Td (Two pages. Recolor the ink, then export as images.) Tj ET
+0.82 0.8 0.74 rg 48 612 516 1 re f
+0.16 0.15 0.13 rg
+BT /F1 11 Tf 48 580 Td (InkShift renders every PDF page to a picture in the browser.) Tj ET
+BT /F1 11 Tf 48 562 Td (Nothing is uploaded. Shift ink and paper, then download PNG, JPG, or WebP.) Tj ET
+BT /F1 11 Tf 48 544 Td (Use the sample to try Night, Blueprint, Sepia, and custom colors.) Tj ET
+0.93 0.91 0.86 rg 48 400 156 112 re f
+0.88 0.86 0.8 rg 228 400 156 112 re f
+0.22 0.21 0.19 rg 408 400 156 112 re f
+0.16 0.15 0.13 rg
+BT /F2 10 Tf 60 486 Td (PAGES) Tj ET
+BT /F2 28 Tf 60 448 Td (02) Tj ET
+BT /F1 9 Tf 60 422 Td (Letter size) Tj ET
+BT /F2 10 Tf 240 486 Td (EXPORT) Tj ET
+BT /F2 22 Tf 240 448 Td (PNG JPG) Tj ET
+BT /F1 9 Tf 240 422 Td (or a ZIP of all pages) Tj ET
+0.96 0.95 0.92 rg
+BT /F2 10 Tf 420 486 Td (PRIVACY) Tj ET
+BT /F2 16 Tf 420 452 Td (On-device) Tj ET
+BT /F1 9 Tf 420 422 Td (No server copy) Tj ET
+0.16 0.15 0.13 rg
+BT /F1 10 Tf 48 360 Td (Try this) Tj ET
+0.35 0.33 0.3 rg
+BT /F1 11 Tf 48 336 Td (1.  Open Color and pick Blueprint or Night.) Tj ET
+BT /F1 11 Tf 48 318 Td (2.  Drag Ink and Paper to any pair you like.) Tj ET
+BT /F1 11 Tf 48 300 Td (3.  Export this page, or download the whole file as a ZIP.) Tj ET
+0.11 0.1 0.09 rg 48 72 516 48 re f
+0.96 0.95 0.92 rg
+BT /F1 10 Tf 64 92 Td (Hold Compare on the preview to see the original page.) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 1436 >>
+stream
+0.11 0.1 0.09 rg 0 732 612 60 re f
+1 0.99 0.96 rg
+BT /F2 13 Tf 36 754 Td (INKSHIFT) Tj ET
+BT /F1 10 Tf 456 754 Td (Color notes  ·  2 / 2) Tj ET
+0.12 0.11 0.1 rg
+BT /F2 28 Tf 48 660 Td (Ink, paper, midtones) Tj ET
+0.35 0.33 0.3 rg
+BT /F1 12 Tf 48 628 Td (Recolor maps light pixels to paper and dark pixels to ink.) Tj ET
+0.96 0.95 0.92 rg 48 520 96 72 re f
+0.78 0.76 0.7 rg 156 520 96 72 re f
+0.55 0.53 0.48 rg 264 520 96 72 re f
+0.32 0.3 0.27 rg 372 520 96 72 re f
+0.12 0.11 0.1 rg 480 520 84 72 re f
+0.16 0.15 0.13 rg
+BT /F1 8 Tf 56 500 Td (Paper) Tj ET
+BT /F1 8 Tf 168 500 Td (Light) Tj ET
+BT /F1 8 Tf 280 500 Td (Mid) Tj ET
+BT /F1 8 Tf 388 500 Td (Dark) Tj ET
+0.96 0.95 0.92 rg
+BT /F1 8 Tf 492 500 Td (Ink) Tj ET
+0.16 0.15 0.13 rg
+BT /F1 11 Tf 48 460 Td (A good pair keeps body text readable and the page quiet.) Tj ET
+BT /F1 11 Tf 48 442 Td (Night inverts the studio. Blueprint is for mark-up. Sepia is archival.) Tj ET
+0.93 0.91 0.86 rg 48 280 516 120 re f
+0.16 0.15 0.13 rg
+BT /F2 12 Tf 68 368 Td (Export checklist) Tj ET
+0.35 0.33 0.3 rg
+BT /F1 11 Tf 68 342 Td (PNG for sharp type. JPG or WebP when the file must stay small.) Tj ET
+BT /F1 11 Tf 68 324 Td (2x is the usual screen size. 3x if you need print-adjacent detail.) Tj ET
+BT /F1 11 Tf 68 306 Td (Filters apply to the pixels you download, not only the preview.) Tj ET
+0.55 0.53 0.48 rg
+BT /F1 9 Tf 48 72 Td (Generated for InkShift  ·  files never leave this device) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000393 00000 n 
+0000002085 00000 n 
+0000003572 00000 n 
+0000003642 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+3717
+%%EOF
